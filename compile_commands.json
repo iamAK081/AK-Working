@@ -1,97 +1,109 @@
 [{
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Inheritance1\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Inheritance1",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Inheritance1\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Inheritance1\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\FindMissingEle\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\FindMissingEle",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\FindMissingEle\\main.cpp -o D:\\GitHubCodes\\AK-Working\\FindMissingEle\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\WithFactoryPattern\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\WithFactoryPattern",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\WithFactoryPattern\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\WithFactoryPattern\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\fibnaSeries\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\fibnaSeries",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\fibnaSeries\\main.cpp -o D:\\GitHubCodes\\AK-Working\\fibnaSeries\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SolinasTechnicalTast\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SolinasTechnicalTast",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SolinasTechnicalTast\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SolinasTechnicalTast\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\Inheritance1\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\Inheritance1",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\Inheritance1\\main.cpp -o D:\\GitHubCodes\\AK-Working\\Inheritance1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MergeArray\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MergeArray",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MergeArray\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MergeArray\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\WithFactoryPattern\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\WithFactoryPattern",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\WithFactoryPattern\\main.cpp -o D:\\GitHubCodes\\AK-Working\\WithFactoryPattern\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\HashLinearMethod\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\HashLinearMethod",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\HashLinearMethod\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\HashLinearMethod\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\SolinasTechnicalTast\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\SolinasTechnicalTast",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\SolinasTechnicalTast\\main.cpp -o D:\\GitHubCodes\\AK-Working\\SolinasTechnicalTast\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADT\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADT",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADT\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADT\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\MergeArray\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\MergeArray",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\MergeArray\\main.cpp -o D:\\GitHubCodes\\AK-Working\\MergeArray\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringLength\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringLength",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringLength\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringLength\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\HashLinearMethod\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\HashLinearMethod",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\HashLinearMethod\\main.cpp -o D:\\GitHubCodes\\AK-Working\\HashLinearMethod\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADTOperations\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADTOperations",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADTOperations\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADTOperations\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\StringLength\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\StringLength",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\StringLength\\main.cpp -o D:\\GitHubCodes\\AK-Working\\StringLength\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringMani\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringMani",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringMani\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringMani\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\ArrayADTOperations\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\ArrayADTOperations",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\ArrayADTOperations\\main.cpp -o D:\\GitHubCodes\\AK-Working\\ArrayADTOperations\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FactoryPattern\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FactoryPattern",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FactoryPattern\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FactoryPattern\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\StringMani\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\StringMani",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\StringMani\\main.cpp -o D:\\GitHubCodes\\AK-Working\\StringMani\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindSingleElementInArray\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindSingleElementInArray",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindSingleElementInArray\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindSingleElementInArray\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\FindSingleElementInArray\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\FindSingleElementInArray",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\FindSingleElementInArray\\main.cpp -o D:\\GitHubCodes\\AK-Working\\FindSingleElementInArray\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringManipulation\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringManipulation",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringManipulation\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringManipulation\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\StringManipulation\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\StringManipulation",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\StringManipulation\\main.cpp -o D:\\GitHubCodes\\AK-Working\\StringManipulation\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindDuplicateUnSorted\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindDuplicateUnSorted",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindDuplicateUnSorted\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindDuplicateUnSorted\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\FindDuplicateUnSorted\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\FindDuplicateUnSorted",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\FindDuplicateUnSorted\\main.cpp -o D:\\GitHubCodes\\AK-Working\\FindDuplicateUnSorted\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Intersection\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Intersection",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Intersection\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Intersection\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\Intersection\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\Intersection",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\Intersection\\main.cpp -o D:\\GitHubCodes\\AK-Working\\Intersection\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Solinas_Technical_task\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Solinas_Technical_task",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Solinas_Technical_task\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Solinas_Technical_task\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\FindLargestThreeElement\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\FindLargestThreeElement",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\FindLargestThreeElement\\main.cpp -o D:\\GitHubCodes\\AK-Working\\FindLargestThreeElement\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SeprateNegAndPossitive\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SeprateNegAndPossitive",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SeprateNegAndPossitive\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SeprateNegAndPossitive\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\FindLastDuplicate\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\FindLastDuplicate",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\FindLastDuplicate\\main.cpp -o D:\\GitHubCodes\\AK-Working\\FindLastDuplicate\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindLastDuplicate\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindLastDuplicate",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindLastDuplicate\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindLastDuplicate\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\MaxTwoNumbers\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\MaxTwoNumbers",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\MaxTwoNumbers\\main.cpp -o D:\\GitHubCodes\\AK-Working\\MaxTwoNumbers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MaxTwoNumbers\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MaxTwoNumbers",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MaxTwoNumbers\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MaxTwoNumbers\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\Factoroial\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\Factoroial",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\Factoroial\\main.cpp -o D:\\GitHubCodes\\AK-Working\\Factoroial\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MeetingRoom\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MeetingRoom",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MeetingRoom\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MeetingRoom\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\MeetingRoom\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\MeetingRoom",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\MeetingRoom\\main.cpp -o D:\\GitHubCodes\\AK-Working\\MeetingRoom\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\TwoDiamentionalArray\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\TwoDiamentionalArray",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\TwoDiamentionalArray\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\TwoDiamentionalArray\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\TwoDiamentionalArray\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\TwoDiamentionalArray",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\TwoDiamentionalArray\\main.cpp -o D:\\GitHubCodes\\AK-Working\\TwoDiamentionalArray\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SubStringCount\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SubStringCount",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SubStringCount\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SubStringCount\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\SubStringCount\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\SubStringCount",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\SubStringCount\\main.cpp -o D:\\GitHubCodes\\AK-Working\\SubStringCount\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Merge\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Merge",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Merge\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Merge\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\FindFirstRep\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\FindFirstRep",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\FindFirstRep\\main.cpp -o D:\\GitHubCodes\\AK-Working\\FindFirstRep\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayResize\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayResize",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayResize\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayResize\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\Merge\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\Merge",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\Merge\\main.cpp -o D:\\GitHubCodes\\AK-Working\\Merge\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayOperations\\main.cpp",
-  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayOperations",
-  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayOperations\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayOperations\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "D:\\GitHubCodes\\AK-Working\\ArrayResize\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\ArrayResize",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\ArrayResize\\main.cpp -o D:\\GitHubCodes\\AK-Working\\ArrayResize\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\Solinas_Technical_task\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\Solinas_Technical_task",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\Solinas_Technical_task\\main.cpp -o D:\\GitHubCodes\\AK-Working\\Solinas_Technical_task\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\SeprateNegAndPossitive\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\SeprateNegAndPossitive",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\SeprateNegAndPossitive\\main.cpp -o D:\\GitHubCodes\\AK-Working\\SeprateNegAndPossitive\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\ArrayOperations\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\ArrayOperations",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\ArrayOperations\\main.cpp -o D:\\GitHubCodes\\AK-Working\\ArrayOperations\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }]

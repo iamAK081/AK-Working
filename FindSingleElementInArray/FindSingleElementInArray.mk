@@ -6,15 +6,15 @@
 ProjectName            :=FindSingleElementInArray
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :=D:/WorkingFiles/C++/Codelite/StringReverse/MyWorkingFiles/Codelite/DataStructure
-ProjectPath            :=D:/WorkingFiles/C++/Codelite/StringReverse/MyWorkingFiles/Codelite/DataStructure/FindSingleElementInArray
+WorkspacePath          :=D:/GitHubCodes/AK-Working
+ProjectPath            :=D:/GitHubCodes/AK-Working/FindSingleElementInArray
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/FindSingleElementInArray
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=Ryzen
-Date                   :=4/20/2024
+Date                   :=5/7/2024
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
 LinkerName             :=C:/mingw64/bin/g++.exe
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=D:/WorkingFiles/C++/Codelite/StringReverse/MyWorkingFiles/Codelite/DataStructure/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=D:/GitHubCodes/AK-Working/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/WorkingFiles/C++/Codelite/StringReverse/MyWorkingFiles/Codelite/DataStructure/FindSingleElementInArray/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/GitHubCodes/AK-Working/FindSingleElementInArray/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

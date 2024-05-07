@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Inheritance1 - Debug ]----------"
-	@cd "Inheritance1" && "$(MAKE)" -f  "Inheritance1.mk"
+	@echo "----------Building project:[ FindFirstRep - Debug ]----------"
+	@cd "FindFirstRep" && "$(MAKE)" -f  "FindFirstRep.mk"
 clean:
-	@echo "----------Cleaning project:[ Inheritance1 - Debug ]----------"
-	@cd "Inheritance1" && "$(MAKE)" -f  "Inheritance1.mk" clean
+	@echo "----------Cleaning project:[ FindFirstRep - Debug ]----------"
+	@cd "FindFirstRep" && "$(MAKE)" -f  "FindFirstRep.mk" clean

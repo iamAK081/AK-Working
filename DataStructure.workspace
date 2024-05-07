@@ -2,14 +2,11 @@
 <CodeLite_Workspace Name="DataStructure" Database="" Version="10000">
   <Project Name="ArrayResize" Path="ArrayResize/ArrayResize.project" Active="No"/>
   <Project Name="TwoDiamentionalArray" Path="TwoDiamentionalArray/TwoDiamentionalArray.project" Active="No"/>
-  <Project Name="ArrayADT" Path="ArrayADT/ArrayADT.project" Active="No"/>
   <Project Name="ArrayADTOperations" Path="ArrayADTOperations/ArrayADTOperations.project" Active="No"/>
   <Project Name="ArrayOperations" Path="ArrayOperations/ArrayOperations.project" Active="No"/>
   <Project Name="Merge" Path="Merge/Merge.project" Active="No"/>
   <Project Name="MeetingRoom" Path="MeetingRoom/MeetingRoom.project" Active="No"/>
   <Project Name="SubStringCount" Path="SubStringCount/SubStringCount.project" Active="No"/>
-  <Project Name="WithoutFactoryPattern" Path="FactoryPattern/FactoryPattern.project" Active="No"/>
-  <Project Name="FactoryPattern" Path="FactoryPattern/FactoryPattern.project" Active="No"/>
   <Project Name="WithFactoryPattern" Path="WithFactoryPattern/WithFactoryPattern.project" Active="No"/>
   <Project Name="MergeArray" Path="MergeArray/MergeArray.project" Active="No"/>
   <Project Name="SeprateNegAndPossitive" Path="SeprateNegAndPossitive/SeprateNegAndPossitive.project" Active="No"/>
@@ -24,7 +21,12 @@
   <Project Name="HashLinearMethod" Path="HashLinearMethod/HashLinearMethod.project" Active="No"/>
   <Project Name="Solinas_Technical_task" Path="Solinas_Technical_task/Solinas_Technical_task.project" Active="No"/>
   <Project Name="SolinasTechnicalTast" Path="SolinasTechnicalTast/SolinasTechnicalTast.project" Active="No"/>
-  <Project Name="Inheritance1" Path="Inheritance1/Inheritance1.project" Active="Yes"/>
+  <Project Name="Inheritance1" Path="Inheritance1/Inheritance1.project" Active="No"/>
+  <Project Name="Factoroial" Path="Factoroial/Factoroial.project" Active="No"/>
+  <Project Name="fibnaSeries" Path="fibnaSeries/fibnaSeries.project" Active="No"/>
+  <Project Name="FindLargestThreeElement" Path="FindLargestThreeElement/FindLargestThreeElement.project" Active="No"/>
+  <Project Name="FindMissingEle" Path="FindMissingEle/FindMissingEle.project" Active="No"/>
+  <Project Name="FindFirstRep" Path="FindFirstRep/FindFirstRep.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -53,6 +55,11 @@
       <Project Name="Solinas_Technical_task" ConfigName="Debug"/>
       <Project Name="SolinasTechnicalTast" ConfigName="Debug"/>
       <Project Name="Inheritance1" ConfigName="Debug"/>
+      <Project Name="Factoroial" ConfigName="Debug"/>
+      <Project Name="fibnaSeries" ConfigName="Debug"/>
+      <Project Name="FindLargestThreeElement" ConfigName="Debug"/>
+      <Project Name="FindMissingEle" ConfigName="Debug"/>
+      <Project Name="FindFirstRep" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -81,6 +88,11 @@
       <Project Name="Solinas_Technical_task" ConfigName="Release"/>
       <Project Name="SolinasTechnicalTast" ConfigName="Release"/>
       <Project Name="Inheritance1" ConfigName="Release"/>
+      <Project Name="Factoroial" ConfigName="Release"/>
+      <Project Name="fibnaSeries" ConfigName="Release"/>
+      <Project Name="FindLargestThreeElement" ConfigName="Release"/>
+      <Project Name="FindMissingEle" ConfigName="Release"/>
+      <Project Name="FindFirstRep" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
