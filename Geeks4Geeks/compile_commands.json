@@ -1,0 +1,61 @@
+[{
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\MissingEle\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\MissingEle",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\MissingEle\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\MissingEle\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\AppliedMaterial\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\AppliedMaterial",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\AppliedMaterial\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\AppliedMaterial\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\ResverseNum\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\ResverseNum",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\ResverseNum\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\ResverseNum\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\LeaderInArrayRight\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\LeaderInArrayRight",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\LeaderInArrayRight\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\LeaderInArrayRight\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\ownUniquePtr\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\ownUniquePtr",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\ownUniquePtr\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\ownUniquePtr\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\DnfAlgorithm\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\DnfAlgorithm",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\DnfAlgorithm\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\DnfAlgorithm\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FindDuplicates\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FindDuplicates",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FindDuplicates\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FindDuplicates\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\SumOfSubArrayEx\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\SumOfSubArrayEx",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\SumOfSubArrayEx\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\SumOfSubArrayEx\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\IndexOfExtraElement\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\IndexOfExtraElement",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\IndexOfExtraElement\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\IndexOfExtraElement\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FindMissingElement\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FindMissingElement",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FindMissingElement\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FindMissingElement\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FibSerious\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FibSerious",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FibSerious\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\FibSerious\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\EasyWaySorting\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\EasyWaySorting",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\EasyWaySorting\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\EasyWaySorting\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\Sort1s2s\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\Sort1s2s",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\Sort1s2s\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\Sort1s2s\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\TargetNum\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\TargetNum",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\TargetNum\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\TargetNum\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\SubArrayIndex\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\SubArrayIndex",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\SubArrayIndex\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Geeks4Geeks\\SubArrayIndex\\main.cpp.o  -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

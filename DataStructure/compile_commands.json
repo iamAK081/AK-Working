@@ -1,0 +1,97 @@
+[{
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Inheritance1\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Inheritance1",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Inheritance1\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Inheritance1\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\WithFactoryPattern\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\WithFactoryPattern",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\WithFactoryPattern\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\WithFactoryPattern\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SolinasTechnicalTast\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SolinasTechnicalTast",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SolinasTechnicalTast\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SolinasTechnicalTast\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MergeArray\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MergeArray",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MergeArray\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MergeArray\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\HashLinearMethod\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\HashLinearMethod",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\HashLinearMethod\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\HashLinearMethod\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADT\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADT",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADT\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADT\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringLength\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringLength",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringLength\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringLength\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADTOperations\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADTOperations",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADTOperations\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayADTOperations\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringMani\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringMani",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringMani\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringMani\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FactoryPattern\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FactoryPattern",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FactoryPattern\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FactoryPattern\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindSingleElementInArray\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindSingleElementInArray",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindSingleElementInArray\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindSingleElementInArray\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringManipulation\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringManipulation",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringManipulation\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\StringManipulation\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindDuplicateUnSorted\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindDuplicateUnSorted",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindDuplicateUnSorted\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindDuplicateUnSorted\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Intersection\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Intersection",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Intersection\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Intersection\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Solinas_Technical_task\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Solinas_Technical_task",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Solinas_Technical_task\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Solinas_Technical_task\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SeprateNegAndPossitive\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SeprateNegAndPossitive",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SeprateNegAndPossitive\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SeprateNegAndPossitive\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindLastDuplicate\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindLastDuplicate",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindLastDuplicate\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\FindLastDuplicate\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MaxTwoNumbers\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MaxTwoNumbers",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MaxTwoNumbers\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MaxTwoNumbers\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MeetingRoom\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MeetingRoom",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MeetingRoom\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\MeetingRoom\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\TwoDiamentionalArray\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\TwoDiamentionalArray",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\TwoDiamentionalArray\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\TwoDiamentionalArray\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SubStringCount\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SubStringCount",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SubStringCount\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\SubStringCount\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Merge\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Merge",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Merge\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\Merge\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayResize\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayResize",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayResize\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayResize\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayOperations\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayOperations",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayOperations\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\DataStructure\\ArrayOperations\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

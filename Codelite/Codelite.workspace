@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Codelite" Database="" Version="10000">
+  <Project Name="Codelite" Path="Codelite/Codelite.project" Active="No"/>
+  <Project Name="LinearHashing" Path="LinearHashing/LinearHashing.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Codelite" ConfigName="Debug"/>
+      <Project Name="LinearHashing" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Codelite" ConfigName="Release"/>
+      <Project Name="LinearHashing" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

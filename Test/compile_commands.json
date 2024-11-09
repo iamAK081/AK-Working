@@ -1,0 +1,5 @@
+[{
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\Test\\Test\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\Test\\Test",
+  "command": "g++ -c D:\\WorkingFiles\\C++\\Codelite\\Test\\Test\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\Test\\Test\\main.cpp.o -target x86_64-w64-mingw32 -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

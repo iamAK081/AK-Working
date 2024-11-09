@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Geeks4Geeks" Database="" Version="10000">
+  <Project Name="SubArrayIndex" Path="SubArrayIndex/SubArrayIndex.project" Active="No"/>
+  <Project Name="Sort1s2s" Path="Sort1s2s/Sort1s2s.project" Active="No"/>
+  <Project Name="TargetNum" Path="TargetNum/TargetNum.project" Active="Yes"/>
+  <Project Name="EasyWaySorting" Path="EasyWaySorting/EasyWaySorting.project" Active="No"/>
+  <Project Name="ownUniquePtr" Path="ownUniquePtr/ownUniquePtr.project" Active="No"/>
+  <Project Name="SumOfSubArrayEx" Path="SumOfSubArrayEx/SumOfSubArrayEx.project" Active="No"/>
+  <Project Name="FindMissingElement" Path="FindMissingElement/FindMissingElement.project" Active="No"/>
+  <Project Name="IndexOfExtraElement" Path="IndexOfExtraElement/IndexOfExtraElement.project" Active="No"/>
+  <Project Name="FindDuplicates" Path="FindDuplicates/FindDuplicates.project" Active="No"/>
+  <Project Name="LeaderInArrayRight" Path="LeaderInArrayRight/LeaderInArrayRight.project" Active="No"/>
+  <Project Name="DnfAlgorithm" Path="DnfAlgorithm/DnfAlgorithm.project" Active="No"/>
+  <Project Name="FibSerious" Path="FibSerious/FibSerious.project" Active="No"/>
+  <Project Name="ResverseNum" Path="ResverseNum/ResverseNum.project" Active="No"/>
+  <Project Name="AppliedMaterial" Path="AppliedMaterial/AppliedMaterial.project" Active="No"/>
+  <Project Name="MissingEle" Path="MissingEle/MissingEle.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="SubArrayIndex" ConfigName="Debug"/>
+      <Project Name="Sort1s2s" ConfigName="Debug"/>
+      <Project Name="TargetNum" ConfigName="Debug"/>
+      <Project Name="EasyWaySorting" ConfigName="Debug"/>
+      <Project Name="ownUniquePtr" ConfigName="Debug"/>
+      <Project Name="SumOfSubArrayEx" ConfigName="Debug"/>
+      <Project Name="FindMissingElement" ConfigName="Debug"/>
+      <Project Name="IndexOfExtraElement" ConfigName="Debug"/>
+      <Project Name="FindDuplicates" ConfigName="Debug"/>
+      <Project Name="LeaderInArrayRight" ConfigName="Debug"/>
+      <Project Name="DnfAlgorithm" ConfigName="Debug"/>
+      <Project Name="FibSerious" ConfigName="Debug"/>
+      <Project Name="ResverseNum" ConfigName="Debug"/>
+      <Project Name="AppliedMaterial" ConfigName="Debug"/>
+      <Project Name="MissingEle" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="SubArrayIndex" ConfigName="Release"/>
+      <Project Name="Sort1s2s" ConfigName="Release"/>
+      <Project Name="TargetNum" ConfigName="Release"/>
+      <Project Name="EasyWaySorting" ConfigName="Release"/>
+      <Project Name="ownUniquePtr" ConfigName="Release"/>
+      <Project Name="SumOfSubArrayEx" ConfigName="Release"/>
+      <Project Name="FindMissingElement" ConfigName="Release"/>
+      <Project Name="IndexOfExtraElement" ConfigName="Release"/>
+      <Project Name="FindDuplicates" ConfigName="Release"/>
+      <Project Name="LeaderInArrayRight" ConfigName="Release"/>
+      <Project Name="DnfAlgorithm" ConfigName="Release"/>
+      <Project Name="FibSerious" ConfigName="Release"/>
+      <Project Name="ResverseNum" ConfigName="Release"/>
+      <Project Name="AppliedMaterial" ConfigName="Release"/>
+      <Project Name="MissingEle" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

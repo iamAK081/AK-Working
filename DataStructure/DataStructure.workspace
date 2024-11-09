@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="DataStructure" Database="" Version="10000">
+  <Project Name="ArrayResize" Path="ArrayResize/ArrayResize.project" Active="No"/>
+  <Project Name="TwoDiamentionalArray" Path="TwoDiamentionalArray/TwoDiamentionalArray.project" Active="No"/>
+  <Project Name="ArrayADT" Path="ArrayADT/ArrayADT.project" Active="No"/>
+  <Project Name="ArrayADTOperations" Path="ArrayADTOperations/ArrayADTOperations.project" Active="No"/>
+  <Project Name="ArrayOperations" Path="ArrayOperations/ArrayOperations.project" Active="No"/>
+  <Project Name="Merge" Path="Merge/Merge.project" Active="No"/>
+  <Project Name="MeetingRoom" Path="MeetingRoom/MeetingRoom.project" Active="No"/>
+  <Project Name="SubStringCount" Path="SubStringCount/SubStringCount.project" Active="No"/>
+  <Project Name="WithoutFactoryPattern" Path="FactoryPattern/FactoryPattern.project" Active="No"/>
+  <Project Name="FactoryPattern" Path="FactoryPattern/FactoryPattern.project" Active="No"/>
+  <Project Name="WithFactoryPattern" Path="WithFactoryPattern/WithFactoryPattern.project" Active="No"/>
+  <Project Name="MergeArray" Path="MergeArray/MergeArray.project" Active="No"/>
+  <Project Name="SeprateNegAndPossitive" Path="SeprateNegAndPossitive/SeprateNegAndPossitive.project" Active="No"/>
+  <Project Name="Intersection" Path="Intersection/Intersection.project" Active="No"/>
+  <Project Name="FindSingleElementInArray" Path="FindSingleElementInArray/FindSingleElementInArray.project" Active="No"/>
+  <Project Name="StringMani" Path="StringMani/StringMani.project" Active="No"/>
+  <Project Name="MaxTwoNumbers" Path="MaxTwoNumbers/MaxTwoNumbers.project" Active="No"/>
+  <Project Name="FindLastDuplicate" Path="FindLastDuplicate/FindLastDuplicate.project" Active="No"/>
+  <Project Name="FindDuplicateUnSorted" Path="FindDuplicateUnSorted/FindDuplicateUnSorted.project" Active="No"/>
+  <Project Name="StringLength" Path="StringLength/StringLength.project" Active="No"/>
+  <Project Name="StringManipulation" Path="StringManipulation/StringManipulation.project" Active="No"/>
+  <Project Name="HashLinearMethod" Path="HashLinearMethod/HashLinearMethod.project" Active="No"/>
+  <Project Name="Solinas_Technical_task" Path="Solinas_Technical_task/Solinas_Technical_task.project" Active="No"/>
+  <Project Name="SolinasTechnicalTast" Path="SolinasTechnicalTast/SolinasTechnicalTast.project" Active="No"/>
+  <Project Name="Inheritance1" Path="Inheritance1/Inheritance1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="ArrayADT" ConfigName="Debug"/>
+      <Project Name="ArrayADTOperations" ConfigName="Debug"/>
+      <Project Name="ArrayOperations" ConfigName="Debug"/>
+      <Project Name="ArrayResize" ConfigName="Debug"/>
+      <Project Name="MeetingRoom" ConfigName="Debug"/>
+      <Project Name="Merge" ConfigName="Debug"/>
+      <Project Name="SubStringCount" ConfigName="Debug"/>
+      <Project Name="TwoDiamentionalArray" ConfigName="Debug"/>
+      <Project Name="WithoutFactoryPattern" ConfigName="Debug"/>
+      <Project Name="FactoryPattern" ConfigName="Debug"/>
+      <Project Name="WithFactoryPattern" ConfigName="Debug"/>
+      <Project Name="MergeArray" ConfigName="Debug"/>
+      <Project Name="SeprateNegAndPossitive" ConfigName="Debug"/>
+      <Project Name="Intersection" ConfigName="Debug"/>
+      <Project Name="FindSingleElementInArray" ConfigName="Debug"/>
+      <Project Name="StringMani" ConfigName="Debug"/>
+      <Project Name="MaxTwoNumbers" ConfigName="Debug"/>
+      <Project Name="FindLastDuplicate" ConfigName="Debug"/>
+      <Project Name="FindDuplicateUnSorted" ConfigName="Debug"/>
+      <Project Name="StringLength" ConfigName="Debug"/>
+      <Project Name="StringManipulation" ConfigName="Debug"/>
+      <Project Name="HashLinearMethod" ConfigName="Debug"/>
+      <Project Name="Solinas_Technical_task" ConfigName="Debug"/>
+      <Project Name="SolinasTechnicalTast" ConfigName="Debug"/>
+      <Project Name="Inheritance1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="ArrayResize" ConfigName="Release"/>
+      <Project Name="TwoDiamentionalArray" ConfigName="Release"/>
+      <Project Name="ArrayADT" ConfigName="Release"/>
+      <Project Name="ArrayADTOperations" ConfigName="Release"/>
+      <Project Name="ArrayOperations" ConfigName="Release"/>
+      <Project Name="Merge" ConfigName="Release"/>
+      <Project Name="MeetingRoom" ConfigName="Release"/>
+      <Project Name="SubStringCount" ConfigName="Release"/>
+      <Project Name="WithoutFactoryPattern" ConfigName="Release"/>
+      <Project Name="FactoryPattern" ConfigName="Release"/>
+      <Project Name="WithFactoryPattern" ConfigName="Release"/>
+      <Project Name="MergeArray" ConfigName="Release"/>
+      <Project Name="SeprateNegAndPossitive" ConfigName="Release"/>
+      <Project Name="Intersection" ConfigName="Release"/>
+      <Project Name="FindSingleElementInArray" ConfigName="Release"/>
+      <Project Name="StringMani" ConfigName="Release"/>
+      <Project Name="MaxTwoNumbers" ConfigName="Release"/>
+      <Project Name="FindLastDuplicate" ConfigName="Release"/>
+      <Project Name="FindDuplicateUnSorted" ConfigName="Release"/>
+      <Project Name="StringLength" ConfigName="Release"/>
+      <Project Name="StringManipulation" ConfigName="Release"/>
+      <Project Name="HashLinearMethod" ConfigName="Release"/>
+      <Project Name="Solinas_Technical_task" ConfigName="Release"/>
+      <Project Name="SolinasTechnicalTast" ConfigName="Release"/>
+      <Project Name="Inheritance1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

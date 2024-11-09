@@ -1,0 +1,1 @@
+../build-Debug/StringMani/main.cpp.o   

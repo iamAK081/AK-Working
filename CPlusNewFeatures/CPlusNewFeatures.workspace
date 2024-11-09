@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPlusNewFeatures" Database="" Version="10000">
+  <Project Name="RangeBaseEx" Path="RangeBaseEx/RangeBaseEx.project" Active="No"/>
+  <Project Name="LambdaFunction" Path="LambdaFunction/LambdaFunction.project" Active="Yes"/>
+  <Project Name="LambdaCapture" Path="LambdaCapture/LambdaCapture.project" Active="No"/>
+  <Project Name="constexprExample" Path="constexprExample/constexprExample.project" Active="No"/>
+  <Project Name="VariadicFunctionTemplate" Path="VariadicFunctionTemplate/VariadicFunctionTemplate.project" Active="No"/>
+  <Project Name="VariadictFunExample" Path="VariadictFunExample/VariadictFunExample.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="RangeBaseEx" ConfigName="Debug"/>
+      <Project Name="LambdaFunction" ConfigName="Debug"/>
+      <Project Name="LambdaCapture" ConfigName="Debug"/>
+      <Project Name="constexprExample" ConfigName="Debug"/>
+      <Project Name="VariadicFunctionTemplate" ConfigName="Debug"/>
+      <Project Name="VariadictFunExample" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="RangeBaseEx" ConfigName="Release"/>
+      <Project Name="LambdaFunction" ConfigName="Release"/>
+      <Project Name="LambdaCapture" ConfigName="Release"/>
+      <Project Name="constexprExample" ConfigName="Release"/>
+      <Project Name="VariadicFunctionTemplate" ConfigName="Release"/>
+      <Project Name="VariadictFunExample" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

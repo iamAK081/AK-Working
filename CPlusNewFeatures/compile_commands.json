@@ -1,0 +1,25 @@
+[{
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\constexprExample\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\constexprExample",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\constexprExample\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\constexprExample\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\VariadictFunExample\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\VariadictFunExample",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\VariadictFunExample\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\VariadictFunExample\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\VariadicFunctionTemplate\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\VariadicFunctionTemplate",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\VariadicFunctionTemplate\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\VariadicFunctionTemplate\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\LambdaFunction\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\LambdaFunction",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\LambdaFunction\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\LambdaFunction\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\LambdaCapture\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\LambdaCapture",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\LambdaCapture\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\LambdaCapture\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\RangeBaseEx\\main.cpp",
+  "directory": "D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\RangeBaseEx",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\RangeBaseEx\\main.cpp -o D:\\WorkingFiles\\C++\\Codelite\\CPlusNewFeatures\\RangeBaseEx\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
