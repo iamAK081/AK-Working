@@ -1,11 +1,43 @@
 [{
+  "file": "D:\\GitHubCodes\\AK-Working\\Demo\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\Demo",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\Demo\\main.cpp -o D:\\GitHubCodes\\AK-Working\\Demo\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\OwnSharedPtr\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\OwnSharedPtr",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\OwnSharedPtr\\main.cpp -o D:\\GitHubCodes\\AK-Working\\OwnSharedPtr\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\StackUnwandking\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\StackUnwandking",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\StackUnwandking\\main.cpp -o D:\\GitHubCodes\\AK-Working\\StackUnwandking\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\HashMap\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\HashMap",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\HashMap\\main.cpp -o D:\\GitHubCodes\\AK-Working\\HashMap\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\my_own_shared_ptr\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\my_own_shared_ptr",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\my_own_shared_ptr\\main.cpp -o D:\\GitHubCodes\\AK-Working\\my_own_shared_ptr\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\LinkedListFirst\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\LinkedListFirst",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\LinkedListFirst\\main.cpp -o D:\\GitHubCodes\\AK-Working\\LinkedListFirst\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "D:\\GitHubCodes\\AK-Working\\FindMissingEle\\main.cpp",
   "directory": "D:\\GitHubCodes\\AK-Working\\FindMissingEle",
   "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\FindMissingEle\\main.cpp -o D:\\GitHubCodes\\AK-Working\\FindMissingEle\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\own_unique_ptr\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\own_unique_ptr",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\own_unique_ptr\\main.cpp -o D:\\GitHubCodes\\AK-Working\\own_unique_ptr\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "D:\\GitHubCodes\\AK-Working\\fibnaSeries\\main.cpp",
   "directory": "D:\\GitHubCodes\\AK-Working\\fibnaSeries",
   "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\fibnaSeries\\main.cpp -o D:\\GitHubCodes\\AK-Working\\fibnaSeries\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\noexpt\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\noexpt",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\noexpt\\main.cpp -o D:\\GitHubCodes\\AK-Working\\noexpt\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "D:\\GitHubCodes\\AK-Working\\Inheritance1\\main.cpp",
   "directory": "D:\\GitHubCodes\\AK-Working\\Inheritance1",
@@ -43,6 +75,10 @@
   "directory": "D:\\GitHubCodes\\AK-Working\\FindSingleElementInArray",
   "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\FindSingleElementInArray\\main.cpp -o D:\\GitHubCodes\\AK-Working\\FindSingleElementInArray\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\PlatformCheck\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\PlatformCheck",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\PlatformCheck\\main.cpp -o D:\\GitHubCodes\\AK-Working\\PlatformCheck\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "D:\\GitHubCodes\\AK-Working\\StringManipulation\\main.cpp",
   "directory": "D:\\GitHubCodes\\AK-Working\\StringManipulation",
   "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\StringManipulation\\main.cpp -o D:\\GitHubCodes\\AK-Working\\StringManipulation\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -66,6 +102,10 @@
   "file": "D:\\GitHubCodes\\AK-Working\\MaxTwoNumbers\\main.cpp",
   "directory": "D:\\GitHubCodes\\AK-Working\\MaxTwoNumbers",
   "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\MaxTwoNumbers\\main.cpp -o D:\\GitHubCodes\\AK-Working\\MaxTwoNumbers\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\GitHubCodes\\AK-Working\\LinkedList1\\main.cpp",
+  "directory": "D:\\GitHubCodes\\AK-Working\\LinkedList1",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\GitHubCodes\\AK-Working\\LinkedList1\\main.cpp -o D:\\GitHubCodes\\AK-Working\\LinkedList1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "D:\\GitHubCodes\\AK-Working\\Factoroial\\main.cpp",
   "directory": "D:\\GitHubCodes\\AK-Working\\Factoroial",
