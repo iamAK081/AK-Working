@@ -26,7 +26,17 @@
   <Project Name="fibnaSeries" Path="fibnaSeries/fibnaSeries.project" Active="No"/>
   <Project Name="FindLargestThreeElement" Path="FindLargestThreeElement/FindLargestThreeElement.project" Active="No"/>
   <Project Name="FindMissingEle" Path="FindMissingEle/FindMissingEle.project" Active="No"/>
-  <Project Name="FindFirstRep" Path="FindFirstRep/FindFirstRep.project" Active="Yes"/>
+  <Project Name="FindFirstRep" Path="FindFirstRep/FindFirstRep.project" Active="No"/>
+  <Project Name="LinkedListFirst" Path="LinkedListFirst/LinkedListFirst.project" Active="No"/>
+  <Project Name="LinkedList1" Path="LinkedList1/LinkedList1.project" Active="No"/>
+  <Project Name="HashMap" Path="HashMap/HashMap.project" Active="No"/>
+  <Project Name="StackUnwandking" Path="StackUnwandking/StackUnwandking.project" Active="No"/>
+  <Project Name="noexpt" Path="noexpt/noexpt.project" Active="No"/>
+  <Project Name="OwnSharedPtr" Path="OwnSharedPtr/OwnSharedPtr.project" Active="No"/>
+  <Project Name="own_unique_ptr" Path="own_unique_ptr/own_unique_ptr.project" Active="No"/>
+  <Project Name="my_own_shared_ptr" Path="my_own_shared_ptr/my_own_shared_ptr.project" Active="No"/>
+  <Project Name="Demo" Path="Demo/Demo.project" Active="No"/>
+  <Project Name="PlatformCheck" Path="PlatformCheck/PlatformCheck.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -60,6 +70,16 @@
       <Project Name="FindLargestThreeElement" ConfigName="Debug"/>
       <Project Name="FindMissingEle" ConfigName="Debug"/>
       <Project Name="FindFirstRep" ConfigName="Debug"/>
+      <Project Name="LinkedListFirst" ConfigName="Debug"/>
+      <Project Name="LinkedList1" ConfigName="Debug"/>
+      <Project Name="HashMap" ConfigName="Debug"/>
+      <Project Name="StackUnwandking" ConfigName="Debug"/>
+      <Project Name="noexpt" ConfigName="Debug"/>
+      <Project Name="OwnSharedPtr" ConfigName="Debug"/>
+      <Project Name="own_unique_ptr" ConfigName="Debug"/>
+      <Project Name="my_own_shared_ptr" ConfigName="Debug"/>
+      <Project Name="Demo" ConfigName="Debug"/>
+      <Project Name="PlatformCheck" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -93,6 +113,16 @@
       <Project Name="FindLargestThreeElement" ConfigName="Release"/>
       <Project Name="FindMissingEle" ConfigName="Release"/>
       <Project Name="FindFirstRep" ConfigName="Release"/>
+      <Project Name="LinkedListFirst" ConfigName="Release"/>
+      <Project Name="LinkedList1" ConfigName="Release"/>
+      <Project Name="HashMap" ConfigName="Release"/>
+      <Project Name="StackUnwandking" ConfigName="Release"/>
+      <Project Name="noexpt" ConfigName="Release"/>
+      <Project Name="OwnSharedPtr" ConfigName="Release"/>
+      <Project Name="own_unique_ptr" ConfigName="Release"/>
+      <Project Name="my_own_shared_ptr" ConfigName="Release"/>
+      <Project Name="Demo" ConfigName="Release"/>
+      <Project Name="PlatformCheck" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

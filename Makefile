@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ FindFirstRep - Debug ]----------"
-	@cd "FindFirstRep" && "$(MAKE)" -f  "FindFirstRep.mk"
+	@echo "----------Building project:[ PlatformCheck - Debug ]----------"
+	@cd "PlatformCheck" && "$(MAKE)" -f  "PlatformCheck.mk"
 clean:
-	@echo "----------Cleaning project:[ FindFirstRep - Debug ]----------"
-	@cd "FindFirstRep" && "$(MAKE)" -f  "FindFirstRep.mk" clean
+	@echo "----------Cleaning project:[ PlatformCheck - Debug ]----------"
+	@cd "PlatformCheck" && "$(MAKE)" -f  "PlatformCheck.mk" clean
